@@ -8,6 +8,20 @@
 - Then, each member of Group A will interview someone from B on problem **A**, which the interviewer from A has already completed (and now has a guide for).
 - Following that, the pair will flip, and the person from B will interview their partner from A on problem **B**, with their own solution and guide in hand.
 
+## How To Code
+
+What tools should I be using?
+
+### Use
+
+- Your code editor.
+- Questions.
+
+### Avoid
+
+- Google - you don't need a particular method or function. You can always assume one exists.
+- Running the code. It actually gets in the way of thinking through the code. (In this case. Check your code often in the real world!)
+
 ## What Are We Testing For, Here?
 
 Remember, the interviewee is being tested on their ability to talk through their through process, humbly ask for guidance if needed, get themselves unstuck, and keep a cool head when problem-solving.
